@@ -1,5 +1,5 @@
 ## Resume
-![Resume For Cameron Paris](../resume/Resume_Cameron_Paris_01AUG17)
+![Resume For Cameron Paris](../resume/Resume_Cameron_Paris_01AUG17.pdf)
 
 ## GitHub
 [GitHub Link](https://github.com/CameronParis)
