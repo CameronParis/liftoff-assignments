@@ -12,5 +12,5 @@ The presenter discussed GORM, formerly a part of Grails, but now available for s
 1. Q:What platforms can you use GORM with? A:Hibernate, MongoDB, and multiple JPAs, to name a few.
 
 ### Continued Learning
-[Grails Documentation](http://docs.grails.org/latest/guide/single.html)
+[Grails Documentation](http://docs.grails.org/latest/guide/single.html) |
 [GORM Documentation](http://gorm.grails.org/latest/hibernate/manual/index.html)
