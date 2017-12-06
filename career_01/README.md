@@ -1,17 +1,16 @@
-<h1>Attend a Meetup</h1>
+#Attend a Meetup
 
-<h3>Meetup Details</h3>
-<ul>
-    <li>Meetup Name</li>
-    <li>Meetup Date</li>
-    <li>Meetup Topic</li>
-</ul>
+###Meetup Details
+    * Java User's Group
+    * 09NOV17
+    * GORM Data Services
 
-<h3>Description of Meetup</h3>
-<p>Brief description of the topic covered. 2-3 sentences summing up the topic.</p>
+###Description of Meetup
+The presenter discussed GORM, formerly a part of Grails, but now available for standalone use with a variety of platforms. GORM(Groovy Object Relational Mapping) code is not bound to your database, and supports a number of query avenues, including dynamic finders, criteria, where statements, and HQL(Hibernate Query Language). One advantage of using GORM Data Services is defense against SQL injection. GORM Data Services was described as efficient because there is less code to write, it is compile time optimized, and it supports easy mocking.
 
-<h3>Questions</h3>
-<p>A list of questions and answers from the meetup. To really learn from a meektup you need to be <b>engaged</b>. So ask some questions, and list them here!</p>
+###Questions
+1. Q:What platforms can you use GORM with? A:Hibernate, MongoDB, and multiple JPAs, to name a few.
 
-<h3>Continued Learning</h3>
-<p>For this final section, include some resources for learning more about the topic at hand.</p>
+###Continued Learning
+[Grails Documentation](http://docs.grails.org/latest/guide/single.html)
+[GORM Documentation](http://gorm.grails.org/latest/hibernate/manual/index.html)
